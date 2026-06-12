@@ -16,7 +16,6 @@ function back(){
 }
 
 function calc(){
-
     var resultado = document.getElementById('resultado').innerHTML;
 
     if(resultado){
